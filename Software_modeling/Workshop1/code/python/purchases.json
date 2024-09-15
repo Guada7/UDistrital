@@ -17,7 +17,7 @@
         "user_id": "1",
         "address": "1212 sasasa",
         "machine": {
-            "material": "woo",
+            "material": "wood",
             "color": "red",
             "player_count": 2,
             "games": [
@@ -43,7 +43,7 @@
         "user_id": "6",
         "address": "ssasas",
         "machine": {
-            "material": "woo",
+            "material": "wood",
             "color": "red",
             "player_count": 2,
             "games": [
