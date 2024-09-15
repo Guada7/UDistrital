@@ -1,4 +1,4 @@
-### Code
+### Python
 
 - The python folder contains the source code and resources needed for the command line application (CLI) developed in Workshop 1 of the Software Modeling course. This application allows users to manage a catalog of arcade video game machines, applying object-oriented programming principles.
 
