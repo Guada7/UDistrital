@@ -1,0 +1,59 @@
+[
+    {
+        "game_id": "001",
+        "title": "Pac-Man",
+        "category": "Retro",
+        "reviews": [
+            {
+                "user_id": "1",
+                "review": "Great classic game!"
+            },
+            {
+                "user_id": "2",
+                "review": "Brings back so many memories!"
+            },
+            {
+                "user_id": "6",
+                "review": "la mondaquera"
+            }
+        ]
+    },
+    {
+        "game_id": "002",
+        "title": "Street Fighter",
+        "category": "Fighting",
+        "reviews": [
+            {
+                "user_id": "10",
+                "review": "aprobado por goku"
+            },
+            {
+                "user_id": "14",
+                "review": "maso"
+            },
+            {
+                "user_id": "14",
+                "review": "mentiras"
+            },
+            {
+                "user_id": "15",
+                "review": "no es de dragones"
+            }
+        ]
+    },
+    {
+        "game_id": "003",
+        "title": "Tetris",
+        "category": "Puzzle",
+        "reviews": [
+            {
+                "user_id": "1",
+                "review": "A timeless puzzle game."
+            },
+            {
+                "user_id": "11",
+                "review": "sobrevalorado"
+            }
+        ]
+    }
+]

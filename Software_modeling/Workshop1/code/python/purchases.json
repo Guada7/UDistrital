@@ -1,0 +1,108 @@
+[
+    {
+        "user_id": "1",
+        "address": "123 Main St, Springfield",
+        "machine": {
+            "material": "wood",
+            "color": "red",
+            "player_count": 2,
+            "games": [
+                "Pac-Man",
+                "Street Fighter"
+            ]
+        },
+        "date": "2024-09-12"
+    },
+    {
+        "user_id": "1",
+        "address": "1212 sasasa",
+        "machine": {
+            "material": "woo",
+            "color": "red",
+            "player_count": 2,
+            "games": [
+                "Pac-Man"
+            ]
+        },
+        "date": "2024-09-12"
+    },
+    {
+        "user_id": "6",
+        "address": "21212 fce",
+        "machine": {
+            "material": "wood",
+            "color": "red",
+            "player_count": 1,
+            "games": [
+                "Pac-Man"
+            ]
+        },
+        "date": "2024-09-12"
+    },
+    {
+        "user_id": "6",
+        "address": "ssasas",
+        "machine": {
+            "material": "woo",
+            "color": "red",
+            "player_count": 2,
+            "games": [
+                "Pac-Man"
+            ]
+        },
+        "date": "2024-09-12"
+    },
+    {
+        "user_id": "1",
+        "address": "sasas",
+        "machine": {
+            "material": "aluminum",
+            "color": "red",
+            "player_count": 2,
+            "games": [
+                "Pac-Man"
+            ]
+        },
+        "date": "2024-09-12"
+    },
+    {
+        "user_id": "10",
+        "address": "kame",
+        "machine": {
+            "material": "wood",
+            "color": "red",
+            "player_count": 1,
+            "games": [
+                "Street Fighter"
+            ]
+        },
+        "date": "2024-09-12"
+    },
+    {
+        "user_id": "11",
+        "address": "millionare",
+        "machine": {
+            "material": "carbon fiber",
+            "color": "golden",
+            "player_count": 2,
+            "games": [
+                "Pac-Man"
+            ]
+        },
+        "date": "2024-09-12"
+    },
+    {
+        "user_id": "14",
+        "address": "monaco",
+        "machine": {
+            "material": "wood",
+            "color": "orange",
+            "player_count": 1,
+            "games": [
+                "Pac-Man",
+                "Tetris"
+            ]
+        },
+        "date": "2024-09-12"
+    }
+]
