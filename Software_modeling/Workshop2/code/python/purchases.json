@@ -1,0 +1,38 @@
+[
+    {
+        "user_id": 7,
+        "address": "monaco",
+        "machine_code": "M001",
+        "material": "wood",
+        "color": "red",
+        "player_count": 2,
+        "total_price": 700,
+        "games_added": [],
+        "purchase_date": "2024-10-05 13:19:16"
+    },
+    {
+        "user_id": 1,
+        "address": "singapur",
+        "machine_code": "M002",
+        "material": "carbon fiber",
+        "color": "black",
+        "player_count": 2,
+        "total_price": 689.98,
+        "games_added": [
+            "Epic Adventure",
+            "Puzzle Master"
+        ],
+        "purchase_date": "2024-10-05 13:20:13"
+    },
+    {
+        "user_id": 8,
+        "address": "kioto",
+        "machine_code": "M006",
+        "material": "carbon fiber",
+        "color": "red",
+        "player_count": 1,
+        "total_price": 700,
+        "games_added": [],
+        "purchase_date": "2024-10-05 15:48:03"
+    }
+]

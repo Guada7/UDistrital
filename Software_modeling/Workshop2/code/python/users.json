@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Juan P\u00c3\u00a9rez",
+        "phone": "1234567890"
+    },
+    {
+        "id": 2,
+        "name": "Mar\u00c3\u00ada L\u00c3\u00b3pez",
+        "phone": "0987654321"
+    },
+    {
+        "id": 3,
+        "name": "Carlos Garc\u00c3\u00ada",
+        "phone": "5551234567"
+    },
+    {
+        "id": 4,
+        "name": "Ana Mart\u00c3\u00adnez",
+        "phone": "4449876543"
+    },
+    {
+        "id": 5,
+        "name": "san",
+        "phone": "2121"
+    },
+    {
+        "id": 6,
+        "name": "luis",
+        "phone": "23232"
+    },
+    {
+        "id": 7,
+        "name": "max",
+        "phone": "33"
+    },
+    {
+        "id": 8,
+        "name": "tai",
+        "phone": null
+    }
+]

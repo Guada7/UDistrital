@@ -1,0 +1,54 @@
+[
+    {
+        "game_id": "G001",
+        "title": "Epic Adventure",
+        "category": "Action",
+        "price": 59.99,
+        "storytelling_creator": "John Doe",
+        "graphics_creator": "Jane Smith",
+        "year": 2023,
+        "reviews": [
+            {"user_id": "1", "review": "Increíble experiencia, gráficos espectaculares!"},
+            {"user_id": "2", "review": "La historia es muy envolvente."}
+        ]
+    },
+    {
+        "game_id": "G002",
+        "title": "Puzzle Master",
+        "category": "Puzzle",
+        "price": 29.99,
+        "storytelling_creator": "Alice Brown",
+        "graphics_creator": "Bob White",
+        "year": 2022,
+        "reviews": [
+            {"user_id": "1", "review": "Desafiante y divertido, ¡me encantó!"},
+            {"user_id": "3", "review": "Perfecto para pasar el tiempo."}
+        ]
+    },
+    {
+        "game_id": "G003",
+        "title": "Race to Victory",
+        "category": "Racing",
+        "price": 49.99,
+        "storytelling_creator": "Charlie Green",
+        "graphics_creator": "Diana Blue",
+        "year": 2021,
+        "reviews": [
+            {"user_id": "2", "review": "Gran juego de carreras, muy emocionante!"},
+            {"user_id": "4", "review": "Los controles son un poco difíciles al principio."}
+        ]
+    },
+    {
+        "game_id": "G004",
+        "title": "Space Invaders",
+        "category": "Shooter",
+        "price": 39.99,
+        "storytelling_creator": "Eve Black",
+        "graphics_creator": "Frank Grey",
+        "year": 2020,
+        "reviews": [
+            {"user_id": "3", "review": "Clásico que nunca pasa de moda."},
+            {"user_id": "5", "review": "Divertido y adictivo."}
+        ]
+    }
+]
